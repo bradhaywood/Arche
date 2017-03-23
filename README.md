@@ -33,3 +33,5 @@ cl_init.lua
 init.lua
 shared.lua
 ```
+
+Arche comes with a few small modules to help you get started, but you can safely remove them if you wish.
